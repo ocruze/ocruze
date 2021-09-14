@@ -1,6 +1,5 @@
 name: Activity README Stats
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
