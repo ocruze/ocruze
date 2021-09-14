@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Arnest</h1>
+<h3 align="center">A passionate backend developer from France</h3>
 
-<!--
-**ocruze/ocruze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![Profile visit count](https://profile-counter.glitch.me/ocruze/count.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats:
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocruze&langs_count=10&layout=compact&hide=tsql)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ocruze&count_private=true&show_icons=true&title_color=fff&text_color=fff&bg_color=30,36d1dc,904e95)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ocruze&)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ocruze)
+
+### Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/o-a-cruze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="o-a-cruze" height="30" width="40" /></a>
+</p>
