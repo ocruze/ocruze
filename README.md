@@ -3,9 +3,7 @@
 
 ---
 
-![Profile visit count](https://profile-counter.glitch.me/ocruze/count.svg)
-
-### GitHub Stats:
+### GitHub Stats
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocruze&langs_count=10&layout=compact&hide=tsql)
 
@@ -15,7 +13,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ocruze)
 
-### Connect with me:
+### Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/o-a-cruze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="o-a-cruze" height="30" width="40" /></a>
@@ -34,3 +32,7 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Thursday, September 16th, 2021, 8:06:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
+
+### Profile visit count
+
+![Profile visit count](https://profile-counter.glitch.me/ocruze/count.svg)
