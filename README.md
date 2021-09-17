@@ -22,15 +22,15 @@
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 
+1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
 3. 
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 16th, 2021, 8:06:51 AM
+Last Updated: Friday, September 17th, 2021, 1:07:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Profile visit count
