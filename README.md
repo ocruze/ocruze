@@ -3,6 +3,10 @@
 
 ---
 
+### My portfolio website
+
+https://portfolio.arnestcruze.com
+
 ### GitHub Stats
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocruze&langs_count=10&layout=compact&hide=tsql)
@@ -22,15 +26,17 @@
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 
-3. 
-4. 
-5. 
-<!--RECENT_ACTIVITY:end-->
+2.
+3.
+4.
+5. <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Thursday, September 16th, 2021, 8:06:51 AM
+
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Profile visit count
