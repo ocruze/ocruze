@@ -33,12 +33,6 @@ https://portfolio.arnestcruze.com
 5. 
 <!--RECENT_ACTIVITY:end-->
 
-1. 🎉 Merged PR [#1](https://github.com/ocruze/portfolio/pull/1) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
-2. 💪 Opened PR [#1](https://github.com/ocruze/portfolio/pull/1) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
-3. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4.
-5. <!--RECENT_ACTIVITY:end-->
-
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Sunday, November 21st, 2021, 1:05:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
