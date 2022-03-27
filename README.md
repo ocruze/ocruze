@@ -20,7 +20,8 @@ https://portfolio.arnestcruze.com
 ### Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/o-a-cruze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="o-a-cruze" height="30" width="40" /></a>
+  <a href="mailto:o.cruze@live.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="o-a-cruze" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/o-a-cruze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="o-a-cruze" height="30" width="40" /></a>
 </p>
 
 ### Recent activity
