@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/ocruze/portfolio/pull/4) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
-2. ⭐ Starred [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
-3. 🔱 Forked [ocruze/rajatdiptabiswas](https://github.com/ocruze/rajatdiptabiswas) from [rajatdiptabiswas/rajatdiptabiswas](https://github.com/rajatdiptabiswas/rajatdiptabiswas)
-4. 🎉 Merged PR [#3](https://github.com/ocruze/portfolio/pull/3) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
-5. 🎉 Merged PR [#2](https://github.com/ocruze/portfolio/pull/2) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
+1. 🎉 Merged PR [#1](https://github.com/ocruze/minesweeper/pull/1) in [ocruze/minesweeper](https://github.com/ocruze/minesweeper)
+2. 🎉 Merged PR [#4](https://github.com/ocruze/portfolio/pull/4) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
+3. ⭐ Starred [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
+4. 🔱 Forked [ocruze/rajatdiptabiswas](https://github.com/ocruze/rajatdiptabiswas) from [rajatdiptabiswas/rajatdiptabiswas](https://github.com/rajatdiptabiswas/rajatdiptabiswas)
+5. 🎉 Merged PR [#3](https://github.com/ocruze/portfolio/pull/3) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 3rd, 2022, 1:41:54 AM
+Last Updated: Monday, April 4th, 2022, 1:47:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Profile visit count
