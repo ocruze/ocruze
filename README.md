@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Viglino/ol-ext](https://github.com/Viglino/ol-ext)
-2. ⭐ Starred [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
-3. 🎉 Merged PR [#67](https://github.com/IGNF/geotuileur-site/pull/67) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
-4. ❌ Closed PR [#6](https://github.com/ocruze/portfolio/pull/6) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
-5. 💪 Opened PR [#6](https://github.com/ocruze/portfolio/pull/6) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
+1. ✔️ Closed issue [#78](https://github.com/IGNF/geotuileur-site/issues/78) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
+2. ⭐ Starred [Viglino/ol-ext](https://github.com/Viglino/ol-ext)
+3. ⭐ Starred [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
+4. 🎉 Merged PR [#67](https://github.com/IGNF/geotuileur-site/pull/67) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
+5. ❌ Closed PR [#6](https://github.com/ocruze/portfolio/pull/6) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 1st, 2022, 2:11:16 AM
+Last Updated: Thursday, June 2nd, 2022, 1:58:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Profile visit count
