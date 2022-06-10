@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#78](https://github.com/IGNF/geotuileur-site/issues/78) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
-2. ⭐ Starred [Viglino/ol-ext](https://github.com/Viglino/ol-ext)
-3. ⭐ Starred [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
-4. 🎉 Merged PR [#67](https://github.com/IGNF/geotuileur-site/pull/67) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
-5. ❌ Closed PR [#6](https://github.com/ocruze/portfolio/pull/6) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
+1. 💪 Opened PR [#138](https://github.com/geostyler/geostyler-mapbox-parser/pull/138) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
+2. 💪 Opened PR [#335](https://github.com/geostyler/geostyler-demo/pull/335) in [geostyler/geostyler-demo](https://github.com/geostyler/geostyler-demo)
+3. ✔️ Closed issue [#78](https://github.com/IGNF/geotuileur-site/issues/78) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
+4. ⭐ Starred [Viglino/ol-ext](https://github.com/Viglino/ol-ext)
+5. ⭐ Starred [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 9th, 2022, 1:51:00 AM
+Last Updated: Friday, June 10th, 2022, 1:56:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Profile visit count
