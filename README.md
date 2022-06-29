@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#139](https://github.com/geostyler/geostyler-mapbox-parser/issues/139) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
-2. ❗️ Opened issue [#1745](https://github.com/geostyler/geostyler/issues/1745) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
-3. 💪 Opened PR [#138](https://github.com/geostyler/geostyler-mapbox-parser/pull/138) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
-4. 💪 Opened PR [#335](https://github.com/geostyler/geostyler-demo/pull/335) in [geostyler/geostyler-demo](https://github.com/geostyler/geostyler-demo)
-5. ✔️ Closed issue [#78](https://github.com/IGNF/geotuileur-site/issues/78) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
+1. 👍 Approved [#23](https://github.com/IGNF/validator-api/pull/23#pullrequestreview-1021792447) in [IGNF/validator-api](https://github.com/IGNF/validator-api)
+2. ❗️ Opened issue [#139](https://github.com/geostyler/geostyler-mapbox-parser/issues/139) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
+3. ❗️ Opened issue [#1745](https://github.com/geostyler/geostyler/issues/1745) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
+4. 💪 Opened PR [#138](https://github.com/geostyler/geostyler-mapbox-parser/pull/138) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
+5. 💪 Opened PR [#335](https://github.com/geostyler/geostyler-demo/pull/335) in [geostyler/geostyler-demo](https://github.com/geostyler/geostyler-demo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 28th, 2022, 2:00:37 AM
+Last Updated: Wednesday, June 29th, 2022, 2:06:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Profile visit count
