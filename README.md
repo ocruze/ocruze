@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#39](https://github.com/geostyler/geostyler-rest/issues/39) in [geostyler/geostyler-rest](https://github.com/geostyler/geostyler-rest)
-2. 💪 Opened PR [#38](https://github.com/geostyler/geostyler-rest/pull/38) in [geostyler/geostyler-rest](https://github.com/geostyler/geostyler-rest)
-3. 🎉 Merged PR [#107](https://github.com/IGNF/geotuileur-site/pull/107) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
-4. 🎉 Merged PR [#102](https://github.com/IGNF/geotuileur-site/pull/102) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
-5. 💪 Opened PR [#102](https://github.com/IGNF/geotuileur-site/pull/102) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
+1. 🎉 Merged PR [#109](https://github.com/IGNF/geotuileur-site/pull/109) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
+2. ✔️ Closed issue [#108](https://github.com/IGNF/geotuileur-site/issues/108) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
+3. ❗️ Opened issue [#39](https://github.com/geostyler/geostyler-rest/issues/39) in [geostyler/geostyler-rest](https://github.com/geostyler/geostyler-rest)
+4. 💪 Opened PR [#38](https://github.com/geostyler/geostyler-rest/pull/38) in [geostyler/geostyler-rest](https://github.com/geostyler/geostyler-rest)
+5. 🎉 Merged PR [#107](https://github.com/IGNF/geotuileur-site/pull/107) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 8th, 2022, 1:56:18 AM
+Last Updated: Wednesday, November 9th, 2022, 2:07:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Profile visit count
