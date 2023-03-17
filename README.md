@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mborne/satis-gitlab](https://github.com/mborne/satis-gitlab)
-2. ⭐ Starred [MehediDracula/PHP-Constructor](https://github.com/MehediDracula/PHP-Constructor)
-3. ⭐ Starred [MehediDracula/PHP-Namespace-Resolver](https://github.com/MehediDracula/PHP-Namespace-Resolver)
-4. 🎉 Merged PR [#2](https://github.com/teknilec/teknilec.fr/pull/2) in [teknilec/teknilec.fr](https://github.com/teknilec/teknilec.fr)
-5. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. ⭐ Starred [openlayers/openlayers](https://github.com/openlayers/openlayers)
+2. 🎉 Merged PR [#8](https://github.com/ocruze/portfolio/pull/8) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
+3. 🎉 Merged PR [#7](https://github.com/ocruze/portfolio/pull/7) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
+4. ⭐ Starred [IGNF/geoportal-extensions](https://github.com/IGNF/geoportal-extensions)
+5. ⭐ Starred [mborne/satis-gitlab](https://github.com/mborne/satis-gitlab)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 16th, 2023, 1:33:51 AM
+Last Updated: Friday, March 17th, 2023, 1:25:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Profile visit count
