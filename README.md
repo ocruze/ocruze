@@ -38,6 +38,4 @@ https://portfolio.arnestcruze.com
 Last Updated: Saturday, April 1st, 2023, 1:23:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-### Profile visit count
-
-![Profile visit count](https://profile-counter.glitch.me/ocruze/count.svg)
+[![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
