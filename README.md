@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#216](https://github.com/geostyler/geostyler-mapbox-parser/pull/216) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
-2. ⭐ Starred [GouvernementFR/dsfr](https://github.com/GouvernementFR/dsfr)
-3. ✔️ Closed issue [#123](https://github.com/IGNF/geotuileur-site/issues/123) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
-4. 🎉 Merged PR [#126](https://github.com/IGNF/geotuileur-site/pull/126) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
-5. ❗️ Opened issue [#127](https://github.com/IGNF/geotuileur-site/issues/127) in [IGNF/geotuileur-site](https://github.com/IGNF/geotuileur-site)
+1. 👍 Approved [#221](https://github.com/geostyler/geostyler-mapbox-parser/pull/221#pullrequestreview-1424626332) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
+2. 👍 Approved [#71](https://github.com/geostyler/geostyler-rest/pull/71#pullrequestreview-1424559281) in [geostyler/geostyler-rest](https://github.com/geostyler/geostyler-rest)
+3. 👍 Approved [#220](https://github.com/geostyler/geostyler-mapbox-parser/pull/220#pullrequestreview-1424472563) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
+4. 👍 Approved [#66](https://github.com/geostyler/geostyler-rest/pull/66#pullrequestreview-1423925322) in [geostyler/geostyler-rest](https://github.com/geostyler/geostyler-rest)
+5. 👍 Approved [#65](https://github.com/geostyler/geostyler-rest/pull/65#pullrequestreview-1423923075) in [geostyler/geostyler-rest](https://github.com/geostyler/geostyler-rest)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 12th, 2023, 1:20:08 AM
+Last Updated: Saturday, May 13th, 2023, 1:18:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
