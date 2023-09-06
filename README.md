@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#172](https://github.com/codegouvfr/react-dsfr/issues/172) in [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
-2. ⭐ Starred [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper)
-3. 🎉 Merged PR [#11](https://github.com/ocruze/portfolio/pull/11) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
-4. ❗️ Opened issue [#172](https://github.com/codegouvfr/react-dsfr/issues/172) in [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
-5. 💪 Opened PR [#157](https://github.com/codegouvfr/react-dsfr/pull/157) in [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
+1. 👍 Approved [#289](https://github.com/geostyler/geostyler-mapbox-parser/pull/289#pullrequestreview-1610678677) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
+2. 👍 Approved [#287](https://github.com/geostyler/geostyler-mapbox-parser/pull/287#pullrequestreview-1610675128) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
+3. ✔️ Closed issue [#172](https://github.com/codegouvfr/react-dsfr/issues/172) in [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
+4. ⭐ Starred [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper)
+5. 🎉 Merged PR [#11](https://github.com/ocruze/portfolio/pull/11) in [ocruze/portfolio](https://github.com/ocruze/portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 5th, 2023, 1:06:54 AM
+Last Updated: Wednesday, September 6th, 2023, 1:08:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
