@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#48](https://github.com/IGNF/cartes.gouv.fr-documentation/pull/48) in [IGNF/cartes.gouv.fr-documentation](https://github.com/IGNF/cartes.gouv.fr-documentation)
-2. 💪 Opened PR [#48](https://github.com/IGNF/cartes.gouv.fr-documentation/pull/48) in [IGNF/cartes.gouv.fr-documentation](https://github.com/IGNF/cartes.gouv.fr-documentation)
-3. ✔️ Closed issue [#39](https://github.com/IGNF/cartes.gouv.fr-documentation/issues/39) in [IGNF/cartes.gouv.fr-documentation](https://github.com/IGNF/cartes.gouv.fr-documentation)
-4. 💪 Opened PR [#41](https://github.com/IGNF/cartes.gouv.fr-documentation/pull/41) in [IGNF/cartes.gouv.fr-documentation](https://github.com/IGNF/cartes.gouv.fr-documentation)
-5. 👍 Approved [#287](https://github.com/geostyler/geostyler-mapbox-parser/pull/287#pullrequestreview-1610675128) in [geostyler/geostyler-mapbox-parser](https://github.com/geostyler/geostyler-mapbox-parser)
+1. 🎉 Merged PR [#612](https://github.com/geostyler/geostyler-style/pull/612) in [geostyler/geostyler-style](https://github.com/geostyler/geostyler-style)
+2. 🎉 Merged PR [#621](https://github.com/geostyler/geostyler-style/pull/621) in [geostyler/geostyler-style](https://github.com/geostyler/geostyler-style)
+3. 🎉 Merged PR [#623](https://github.com/geostyler/geostyler-style/pull/623) in [geostyler/geostyler-style](https://github.com/geostyler/geostyler-style)
+4. 🎉 Merged PR [#48](https://github.com/IGNF/cartes.gouv.fr-documentation/pull/48) in [IGNF/cartes.gouv.fr-documentation](https://github.com/IGNF/cartes.gouv.fr-documentation)
+5. 💪 Opened PR [#48](https://github.com/IGNF/cartes.gouv.fr-documentation/pull/48) in [IGNF/cartes.gouv.fr-documentation](https://github.com/IGNF/cartes.gouv.fr-documentation)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 5th, 2024, 1:16:21 AM
+Last Updated: Thursday, June 6th, 2024, 1:16:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
