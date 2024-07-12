@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#946](https://github.com/geostyler/geostyler-sld-parser/pull/946) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
-2. 🎉 Merged PR [#455](https://github.com/IGNF/cartes.gouv.fr/pull/455) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. ✔️ Closed issue [#446](https://github.com/IGNF/cartes.gouv.fr/issues/446) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-4. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
-5. ✔️ Closed issue [#923](https://github.com/geostyler/geostyler-sld-parser/issues/923) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
+1. ✔️ Closed issue [#468](https://github.com/IGNF/cartes.gouv.fr/issues/468) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. 💪 Opened PR [#946](https://github.com/geostyler/geostyler-sld-parser/pull/946) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
+3. 🎉 Merged PR [#455](https://github.com/IGNF/cartes.gouv.fr/pull/455) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+4. ✔️ Closed issue [#446](https://github.com/IGNF/cartes.gouv.fr/issues/446) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 11th, 2024, 1:20:24 AM
+Last Updated: Friday, July 12th, 2024, 1:19:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
