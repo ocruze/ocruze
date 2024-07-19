@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#278](https://github.com/codegouvfr/react-dsfr/pull/278) in [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
-2. 🔱 Forked [ocruze/react-dsfr](https://github.com/ocruze/react-dsfr) from [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
-3. 💪 Opened PR [#277](https://github.com/codegouvfr/react-dsfr/pull/277) in [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
-4. 🔱 Forked [ocruze/react-dsfr](https://github.com/ocruze/react-dsfr) from [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
-5. ✔️ Closed issue [#468](https://github.com/IGNF/cartes.gouv.fr/issues/468) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. 👍 Approved [#26](https://github.com/IGNF/cartes.gouv.fr-documentation/pull/26#pullrequestreview-2186218294) in [IGNF/cartes.gouv.fr-documentation](https://github.com/IGNF/cartes.gouv.fr-documentation)
+2. 💪 Opened PR [#278](https://github.com/codegouvfr/react-dsfr/pull/278) in [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
+3. 🔱 Forked [ocruze/react-dsfr](https://github.com/ocruze/react-dsfr) from [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
+4. 💪 Opened PR [#277](https://github.com/codegouvfr/react-dsfr/pull/277) in [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
+5. 🔱 Forked [ocruze/react-dsfr](https://github.com/ocruze/react-dsfr) from [codegouvfr/react-dsfr](https://github.com/codegouvfr/react-dsfr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 18th, 2024, 1:19:04 AM
+Last Updated: Friday, July 19th, 2024, 1:20:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
