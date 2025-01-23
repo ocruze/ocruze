@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#621](https://github.com/IGNF/cartes.gouv.fr/pull/621) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. 🎉 Merged PR [#610](https://github.com/IGNF/cartes.gouv.fr/pull/610) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. 🎉 Merged PR [#619](https://github.com/IGNF/cartes.gouv.fr/pull/619) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-4. 👍 Approved [#619](https://github.com/IGNF/cartes.gouv.fr/pull/619#pullrequestreview-2550241918) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-5. 👍 Approved [#610](https://github.com/IGNF/cartes.gouv.fr/pull/610#pullrequestreview-2549845024) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. ❗️ Opened issue [#3](https://github.com/IGNF/react-dsfr-tiptap/issues/3) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
+2. 💪 Opened PR [#621](https://github.com/IGNF/cartes.gouv.fr/pull/621) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+3. 🎉 Merged PR [#610](https://github.com/IGNF/cartes.gouv.fr/pull/610) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+4. 🎉 Merged PR [#619](https://github.com/IGNF/cartes.gouv.fr/pull/619) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. 👍 Approved [#619](https://github.com/IGNF/cartes.gouv.fr/pull/619#pullrequestreview-2550241918) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 22nd, 2025, 1:38:09 AM
+Last Updated: Thursday, January 23rd, 2025, 1:36:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
