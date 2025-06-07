@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2567](https://github.com/geostyler/geostyler/issues/2567) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
-2. 💪 Opened PR [#2579](https://github.com/geostyler/geostyler/pull/2579) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
-3. 🔱 Forked [ocruze/geostyler](https://github.com/ocruze/geostyler) from [geostyler/geostyler](https://github.com/geostyler/geostyler)
-4. 📔 Created new repository [ocruze/portfolio-astro](https://github.com/ocruze/portfolio-astro)
-5. 🎉 Merged PR [#753](https://github.com/IGNF/cartes.gouv.fr/pull/753) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. 💪 Opened PR [#1010](https://github.com/geostyler/geostyler-sld-parser/pull/1010) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
+2. ✔️ Closed issue [#2567](https://github.com/geostyler/geostyler/issues/2567) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
+3. 💪 Opened PR [#2579](https://github.com/geostyler/geostyler/pull/2579) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
+4. 🔱 Forked [ocruze/geostyler](https://github.com/ocruze/geostyler) from [geostyler/geostyler](https://github.com/geostyler/geostyler)
+5. 📔 Created new repository [ocruze/portfolio-astro](https://github.com/ocruze/portfolio-astro)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 6th, 2025, 1:54:59 AM
+Last Updated: Saturday, June 7th, 2025, 1:54:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
