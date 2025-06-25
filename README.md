@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2617](https://github.com/geostyler/geostyler/pull/2617) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
-2. 🎉 Merged PR [#1010](https://github.com/geostyler/geostyler-sld-parser/pull/1010) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
-3. 💪 Opened PR [#1010](https://github.com/geostyler/geostyler-sld-parser/pull/1010) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
-4. ✔️ Closed issue [#2567](https://github.com/geostyler/geostyler/issues/2567) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
-5. 💪 Opened PR [#2579](https://github.com/geostyler/geostyler/pull/2579) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
+1. ❗️ Opened issue [#785](https://github.com/IGNF/cartes.gouv.fr/issues/785) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. 🎉 Merged PR [#784](https://github.com/IGNF/cartes.gouv.fr/pull/784) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+3. 💪 Opened PR [#784](https://github.com/IGNF/cartes.gouv.fr/pull/784) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+4. 👍 Approved [#2623](https://github.com/geostyler/geostyler/pull/2623#pullrequestreview-2952854275) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
+5. ⭐ Starred [IGNF/cartes.gouv.fr-guichet-collaboratif](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 24th, 2025, 1:58:54 AM
+Last Updated: Wednesday, June 25th, 2025, 1:58:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
