@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eddyizm/tempo](https://github.com/eddyizm/tempo)
-2. 🎉 Merged PR [#821](https://github.com/IGNF/cartes.gouv.fr/pull/821) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. 💪 Opened PR [#821](https://github.com/IGNF/cartes.gouv.fr/pull/821) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-4. 📔 Created new repository [ocruze/geostyler-compat-matrix](https://github.com/ocruze/geostyler-compat-matrix)
-5. 🎉 Merged PR [#813](https://github.com/IGNF/cartes.gouv.fr/pull/813) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. ❗️ Opened issue [#620](https://github.com/geostyler/geostyler-qgis-parser/issues/620) in [geostyler/geostyler-qgis-parser](https://github.com/geostyler/geostyler-qgis-parser)
+2. ⭐ Starred [eddyizm/tempo](https://github.com/eddyizm/tempo)
+3. 🎉 Merged PR [#821](https://github.com/IGNF/cartes.gouv.fr/pull/821) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+4. 💪 Opened PR [#821](https://github.com/IGNF/cartes.gouv.fr/pull/821) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. 📔 Created new repository [ocruze/geostyler-compat-matrix](https://github.com/ocruze/geostyler-compat-matrix)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 6th, 2025, 1:46:24 AM
+Last Updated: Tuesday, October 7th, 2025, 1:43:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
