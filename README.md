@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#844](https://github.com/IGNF/cartes.gouv.fr/pull/844) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. 💪 Opened PR [#844](https://github.com/IGNF/cartes.gouv.fr/pull/844) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. ❗️ Opened issue [#620](https://github.com/geostyler/geostyler-qgis-parser/issues/620) in [geostyler/geostyler-qgis-parser](https://github.com/geostyler/geostyler-qgis-parser)
-4. ⭐ Starred [eddyizm/tempo](https://github.com/eddyizm/tempo)
-5. 🎉 Merged PR [#821](https://github.com/IGNF/cartes.gouv.fr/pull/821) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. 💪 Opened PR [#850](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. ✔️ Closed issue [#842](https://github.com/IGNF/cartes.gouv.fr/issues/842) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+3. ❗️ Opened issue [#1030](https://github.com/geostyler/geostyler-sld-parser/issues/1030) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
+4. 💪 Opened PR [#844](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. 💪 Opened PR [#456](undefined) in [geostyler/geostyler-cql-parser](https://github.com/geostyler/geostyler-cql-parser)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 1:46:02 AM
+Last Updated: Wednesday, October 15th, 2025, 1:48:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
