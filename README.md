@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#850](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. ✔️ Closed issue [#842](https://github.com/IGNF/cartes.gouv.fr/issues/842) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. ❗️ Opened issue [#1030](https://github.com/geostyler/geostyler-sld-parser/issues/1030) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
-4. 💪 Opened PR [#844](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-5. 💪 Opened PR [#456](undefined) in [geostyler/geostyler-cql-parser](https://github.com/geostyler/geostyler-cql-parser)
+1. ✔️ Closed issue [#9](https://github.com/IGNF/react-dsfr-tiptap/issues/9) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
+2. ✔️ Closed issue [#11](https://github.com/IGNF/react-dsfr-tiptap/issues/11) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
+3. ⭐ Starred [Geoplateforme/plugin-qgis-geoplateforme](https://github.com/Geoplateforme/plugin-qgis-geoplateforme)
+4. 💪 Opened PR [#850](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. ✔️ Closed issue [#842](https://github.com/IGNF/cartes.gouv.fr/issues/842) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 20th, 2025, 1:55:46 AM
+Last Updated: Tuesday, October 21st, 2025, 1:49:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
