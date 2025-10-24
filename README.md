@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#9](https://github.com/IGNF/react-dsfr-tiptap/issues/9) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
-2. ✔️ Closed issue [#11](https://github.com/IGNF/react-dsfr-tiptap/issues/11) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
-3. ⭐ Starred [Geoplateforme/plugin-qgis-geoplateforme](https://github.com/Geoplateforme/plugin-qgis-geoplateforme)
-4. 💪 Opened PR [#850](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-5. ✔️ Closed issue [#842](https://github.com/IGNF/cartes.gouv.fr/issues/842) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. 👍 Approved [#864](https://github.com/IGNF/cartes.gouv.fr/pull/864#pullrequestreview-3369626750) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. 👍 Approved [#853](https://github.com/IGNF/cartes.gouv.fr/pull/853#pullrequestreview-3368869594) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+3. ✔️ Closed issue [#9](https://github.com/IGNF/react-dsfr-tiptap/issues/9) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
+4. ✔️ Closed issue [#11](https://github.com/IGNF/react-dsfr-tiptap/issues/11) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
+5. ⭐ Starred [Geoplateforme/plugin-qgis-geoplateforme](https://github.com/Geoplateforme/plugin-qgis-geoplateforme)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 23rd, 2025, 1:48:24 AM
+Last Updated: Friday, October 24th, 2025, 1:44:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
