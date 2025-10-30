@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#864](https://github.com/IGNF/cartes.gouv.fr/pull/864#pullrequestreview-3369626750) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. 👍 Approved [#853](https://github.com/IGNF/cartes.gouv.fr/pull/853#pullrequestreview-3368869594) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. ✔️ Closed issue [#9](https://github.com/IGNF/react-dsfr-tiptap/issues/9) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
-4. ✔️ Closed issue [#11](https://github.com/IGNF/react-dsfr-tiptap/issues/11) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
-5. ⭐ Starred [Geoplateforme/plugin-qgis-geoplateforme](https://github.com/Geoplateforme/plugin-qgis-geoplateforme)
+1. ❗️ Opened issue [#460](https://github.com/IGNF/geopf-extensions-openlayers/issues/460) in [IGNF/geopf-extensions-openlayers](https://github.com/IGNF/geopf-extensions-openlayers)
+2. 💪 Opened PR [#871](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+3. 👍 Approved [#864](https://github.com/IGNF/cartes.gouv.fr/pull/864#pullrequestreview-3369626750) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+4. 👍 Approved [#853](https://github.com/IGNF/cartes.gouv.fr/pull/853#pullrequestreview-3368869594) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. ✔️ Closed issue [#9](https://github.com/IGNF/react-dsfr-tiptap/issues/9) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 29th, 2025, 1:55:27 AM
+Last Updated: Thursday, October 30th, 2025, 1:54:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
