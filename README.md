@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#960](https://github.com/IGNF/cartes.gouv.fr/issues/960) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. 💪 Opened PR [#959](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. 💪 Opened PR [#957](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-4. ❗️ Opened issue [#956](https://github.com/IGNF/cartes.gouv.fr/issues/956) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-5. 💪 Opened PR [#954](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. 🔴 Requested changes in [#961](https://github.com/IGNF/cartes.gouv.fr/pull/961#pullrequestreview-3862217122) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. 💪 Opened PR [#962](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+3. ❌ Closed PR [#959](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+4. ❗️ Opened issue [#960](https://github.com/IGNF/cartes.gouv.fr/issues/960) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. 💪 Opened PR [#959](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 26th, 2026, 12:37:30 AM
+Last Updated: Friday, February 27th, 2026, 12:39:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
