@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#992](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. ⭐ Starred [nunomaduro/pokio](https://github.com/nunomaduro/pokio)
-3. 💪 Opened PR [#990](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-4. ❗️ Opened issue [#231](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif/issues/231) in [IGNF/cartes.gouv.fr-guichet-collaboratif](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif)
-5. 💪 Opened PR [#989](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. 🔴 Requested changes in [#991](https://github.com/IGNF/cartes.gouv.fr/pull/991#pullrequestreview-3954674527) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. 💪 Opened PR [#992](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+3. ⭐ Starred [nunomaduro/pokio](https://github.com/nunomaduro/pokio)
+4. 💪 Opened PR [#990](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. ❗️ Opened issue [#231](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif/issues/231) in [IGNF/cartes.gouv.fr-guichet-collaboratif](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 16th, 2026, 12:45:09 AM
+Last Updated: Tuesday, March 17th, 2026, 12:38:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
