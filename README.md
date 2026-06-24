@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jonathan-pyt/pepite](https://github.com/jonathan-pyt/pepite)
-2. 💪 Opened PR [#39](undefined) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
-3. ⭐ Starred [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-4. 💪 Opened PR [#1076](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-5. 💪 Opened PR [#1075](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. 👍 Approved [#72](https://github.com/IGNF/cartes.gouv.fr-edito/pull/72#pullrequestreview-4554836583) in [IGNF/cartes.gouv.fr-edito](https://github.com/IGNF/cartes.gouv.fr-edito)
+2. ⭐ Starred [jonathan-pyt/pepite](https://github.com/jonathan-pyt/pepite)
+3. 💪 Opened PR [#39](undefined) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
+4. ⭐ Starred [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+5. 💪 Opened PR [#1076](undefined) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 23rd, 2026, 1:01:23 AM
+Last Updated: Wednesday, June 24th, 2026, 12:59:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
