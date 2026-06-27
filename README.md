@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1089](https://github.com/IGNF/cartes.gouv.fr/issues/1089) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. 👍 Approved [#72](https://github.com/IGNF/cartes.gouv.fr-edito/pull/72#pullrequestreview-4554836583) in [IGNF/cartes.gouv.fr-edito](https://github.com/IGNF/cartes.gouv.fr-edito)
-3. ⭐ Starred [jonathan-pyt/pepite](https://github.com/jonathan-pyt/pepite)
-4. 💪 Opened PR [#39](https://github.com/IGNF/react-dsfr-tiptap/pull/39) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
-5. ⭐ Starred [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+1. 💪 Opened PR [#1090](https://github.com/IGNF/cartes.gouv.fr/pull/1090) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. ❗️ Opened issue [#1089](https://github.com/IGNF/cartes.gouv.fr/issues/1089) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+3. 👍 Approved [#72](https://github.com/IGNF/cartes.gouv.fr-edito/pull/72#pullrequestreview-4554836583) in [IGNF/cartes.gouv.fr-edito](https://github.com/IGNF/cartes.gouv.fr-edito)
+4. ⭐ Starred [jonathan-pyt/pepite](https://github.com/jonathan-pyt/pepite)
+5. 💪 Opened PR [#39](https://github.com/IGNF/react-dsfr-tiptap/pull/39) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 26th, 2026, 3:18:17 PM
+Last Updated: Saturday, June 27th, 2026, 1:02:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
