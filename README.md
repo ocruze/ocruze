@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1090](https://github.com/IGNF/cartes.gouv.fr/pull/1090) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. ❗️ Opened issue [#1089](https://github.com/IGNF/cartes.gouv.fr/issues/1089) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. 👍 Approved [#72](https://github.com/IGNF/cartes.gouv.fr-edito/pull/72#pullrequestreview-4554836583) in [IGNF/cartes.gouv.fr-edito](https://github.com/IGNF/cartes.gouv.fr-edito)
-4. ⭐ Starred [jonathan-pyt/pepite](https://github.com/jonathan-pyt/pepite)
-5. 💪 Opened PR [#39](https://github.com/IGNF/react-dsfr-tiptap/pull/39) in [IGNF/react-dsfr-tiptap](https://github.com/IGNF/react-dsfr-tiptap)
+1. 💪 Opened PR [#27](https://github.com/ocruze/geostyler-compatibility/pull/27) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
+2. ❌ Closed PR [#26](https://github.com/ocruze/geostyler-compatibility/pull/26) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
+3. 💪 Opened PR [#26](https://github.com/ocruze/geostyler-compatibility/pull/26) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
+4. 💪 Opened PR [#25](https://github.com/ocruze/geostyler-compatibility/pull/25) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
+5. 💪 Opened PR [#24](https://github.com/ocruze/geostyler-compatibility/pull/24) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 2nd, 2026, 1:04:22 AM
+Last Updated: Friday, July 3rd, 2026, 3:42:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
