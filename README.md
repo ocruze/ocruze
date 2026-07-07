@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#27](https://github.com/ocruze/geostyler-compatibility/pull/27) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
-2. ❌ Closed PR [#26](https://github.com/ocruze/geostyler-compatibility/pull/26) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
-3. 💪 Opened PR [#26](https://github.com/ocruze/geostyler-compatibility/pull/26) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
-4. 💪 Opened PR [#25](https://github.com/ocruze/geostyler-compatibility/pull/25) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
-5. 💪 Opened PR [#24](https://github.com/ocruze/geostyler-compatibility/pull/24) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
+1. 💪 Opened PR [#1094](https://github.com/IGNF/cartes.gouv.fr/pull/1094) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. 💪 Opened PR [#1093](https://github.com/IGNF/cartes.gouv.fr/pull/1093) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+3. 💪 Opened PR [#27](https://github.com/ocruze/geostyler-compatibility/pull/27) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
+4. ❌ Closed PR [#26](https://github.com/ocruze/geostyler-compatibility/pull/26) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
+5. 💪 Opened PR [#26](https://github.com/ocruze/geostyler-compatibility/pull/26) in [ocruze/geostyler-compatibility](https://github.com/ocruze/geostyler-compatibility)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 6th, 2026, 4:00:21 AM
+Last Updated: Tuesday, July 7th, 2026, 3:51:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
