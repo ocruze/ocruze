@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#329](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif/pull/329#pullrequestreview-4715122017) in [IGNF/cartes.gouv.fr-guichet-collaboratif](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif)
-2. 💪 Opened PR [#1126](https://github.com/geostyler/geostyler-sld-parser/pull/1126) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
-3. ❗️ Opened issue [#1125](https://github.com/geostyler/geostyler-sld-parser/issues/1125) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
-4. 💪 Opened PR [#1124](https://github.com/geostyler/geostyler-sld-parser/pull/1124) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
-5. ❗️ Opened issue [#1123](https://github.com/geostyler/geostyler-sld-parser/issues/1123) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
+1. ❌ Closed PR [#1061](https://github.com/IGNF/cartes.gouv.fr/pull/1061) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. 👍 Approved [#81](https://github.com/IGNF/cartes.gouv.fr-edito/pull/81#pullrequestreview-4785970834) in [IGNF/cartes.gouv.fr-edito](https://github.com/IGNF/cartes.gouv.fr-edito)
+3. 👍 Approved [#329](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif/pull/329#pullrequestreview-4715122017) in [IGNF/cartes.gouv.fr-guichet-collaboratif](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif)
+4. 💪 Opened PR [#1126](https://github.com/geostyler/geostyler-sld-parser/pull/1126) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
+5. ❗️ Opened issue [#1125](https://github.com/geostyler/geostyler-sld-parser/issues/1125) in [geostyler/geostyler-sld-parser](https://github.com/geostyler/geostyler-sld-parser)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 27th, 2026, 3:35:05 AM
+Last Updated: Tuesday, July 28th, 2026, 2:50:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
