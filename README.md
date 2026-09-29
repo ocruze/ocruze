@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1178](https://github.com/IGNF/cartes.gouv.fr/pull/1178) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. ✔️ Closed issue [#1148](https://github.com/IGNF/cartes.gouv.fr/issues/1148) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. 💪 Opened PR [#75](https://github.com/GouvernementFR/dsfr-chart/pull/75) in [GouvernementFR/dsfr-chart](https://github.com/GouvernementFR/dsfr-chart)
-4. 💪 Opened PR [#74](https://github.com/GouvernementFR/dsfr-chart/pull/74) in [GouvernementFR/dsfr-chart](https://github.com/GouvernementFR/dsfr-chart)
-5. 🔱 Forked [ocruze/dsfr-chart](https://github.com/ocruze/dsfr-chart) from [GouvernementFR/dsfr-chart](https://github.com/GouvernementFR/dsfr-chart)
+1. 💪 Opened PR [#596](https://github.com/IGNF/geopf-extensions-openlayers/pull/596) in [IGNF/geopf-extensions-openlayers](https://github.com/IGNF/geopf-extensions-openlayers)
+2. 🔱 Forked [ocruze/geopf-extensions-openlayers](https://github.com/ocruze/geopf-extensions-openlayers) from [IGNF/geopf-extensions-openlayers](https://github.com/IGNF/geopf-extensions-openlayers)
+3. 👍 Approved [#627](https://github.com/geostyler/geostyler-qgis-parser/pull/627#pullrequestreview-5339276364) in [geostyler/geostyler-qgis-parser](https://github.com/geostyler/geostyler-qgis-parser)
+4. 💪 Opened PR [#1178](https://github.com/IGNF/cartes.gouv.fr/pull/1178) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. ✔️ Closed issue [#1148](https://github.com/IGNF/cartes.gouv.fr/issues/1148) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 28th, 2026, 4:40:08 AM
+Last Updated: Tuesday, September 29th, 2026, 5:06:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
