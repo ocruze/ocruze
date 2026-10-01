@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#596](https://github.com/IGNF/geopf-extensions-openlayers/pull/596) in [IGNF/geopf-extensions-openlayers](https://github.com/IGNF/geopf-extensions-openlayers)
-2. 🔱 Forked [ocruze/geopf-extensions-openlayers](https://github.com/ocruze/geopf-extensions-openlayers) from [IGNF/geopf-extensions-openlayers](https://github.com/IGNF/geopf-extensions-openlayers)
-3. 👍 Approved [#627](https://github.com/geostyler/geostyler-qgis-parser/pull/627#pullrequestreview-5339276364) in [geostyler/geostyler-qgis-parser](https://github.com/geostyler/geostyler-qgis-parser)
-4. 💪 Opened PR [#1178](https://github.com/IGNF/cartes.gouv.fr/pull/1178) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-5. ✔️ Closed issue [#1148](https://github.com/IGNF/cartes.gouv.fr/issues/1148) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. 🔴 Requested changes in [#2828](https://github.com/geostyler/geostyler/pull/2828#pullrequestreview-5365970578) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
+2. 💪 Opened PR [#596](https://github.com/IGNF/geopf-extensions-openlayers/pull/596) in [IGNF/geopf-extensions-openlayers](https://github.com/IGNF/geopf-extensions-openlayers)
+3. 🔱 Forked [ocruze/geopf-extensions-openlayers](https://github.com/ocruze/geopf-extensions-openlayers) from [IGNF/geopf-extensions-openlayers](https://github.com/IGNF/geopf-extensions-openlayers)
+4. 👍 Approved [#627](https://github.com/geostyler/geostyler-qgis-parser/pull/627#pullrequestreview-5339276364) in [geostyler/geostyler-qgis-parser](https://github.com/geostyler/geostyler-qgis-parser)
+5. 💪 Opened PR [#1178](https://github.com/IGNF/cartes.gouv.fr/pull/1178) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 30th, 2026, 4:54:05 AM
+Last Updated: Thursday, October 1st, 2026, 5:07:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
