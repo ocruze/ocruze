@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1313](https://github.com/IGNF/cartes.gouv.fr/pull/1313) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. 💪 Opened PR [#1312](https://github.com/IGNF/cartes.gouv.fr/pull/1312) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. 💪 Opened PR [#1311](https://github.com/IGNF/cartes.gouv.fr/pull/1311) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-4. 💪 Opened PR [#1310](https://github.com/IGNF/cartes.gouv.fr/pull/1310) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-5. 💪 Opened PR [#1309](https://github.com/IGNF/cartes.gouv.fr/pull/1309) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. 💪 Opened PR [#1314](https://github.com/IGNF/cartes.gouv.fr/pull/1314) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. 👍 Approved [#384](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif/pull/384#pullrequestreview-5956915588) in [IGNF/cartes.gouv.fr-guichet-collaboratif](https://github.com/IGNF/cartes.gouv.fr-guichet-collaboratif)
+3. 👍 Approved [#2828](https://github.com/geostyler/geostyler/pull/2828#pullrequestreview-5956798703) in [geostyler/geostyler](https://github.com/geostyler/geostyler)
+4. 💪 Opened PR [#1313](https://github.com/IGNF/cartes.gouv.fr/pull/1313) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. 💪 Opened PR [#1312](https://github.com/IGNF/cartes.gouv.fr/pull/1312) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 18th, 2026, 6:44:23 AM
+Last Updated: Thursday, November 19th, 2026, 6:45:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
