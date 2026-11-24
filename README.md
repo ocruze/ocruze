@@ -27,15 +27,15 @@ https://portfolio.arnestcruze.com
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1326](https://github.com/IGNF/cartes.gouv.fr/pull/1326) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-2. 💪 Opened PR [#1325](https://github.com/IGNF/cartes.gouv.fr/pull/1325) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-3. 💪 Opened PR [#1324](https://github.com/IGNF/cartes.gouv.fr/pull/1324) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-4. 💪 Opened PR [#1323](https://github.com/IGNF/cartes.gouv.fr/pull/1323) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
-5. 💪 Opened PR [#1322](https://github.com/IGNF/cartes.gouv.fr/pull/1322) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+1. 💪 Opened PR [#1332](https://github.com/IGNF/cartes.gouv.fr/pull/1332) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+2. ❌ Closed PR [#1060](https://github.com/IGNF/cartes.gouv.fr/pull/1060) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+3. ❌ Closed PR [#1249](https://github.com/IGNF/cartes.gouv.fr/pull/1249) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+4. 💪 Opened PR [#1331](https://github.com/IGNF/cartes.gouv.fr/pull/1331) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
+5. 💪 Opened PR [#1330](https://github.com/IGNF/cartes.gouv.fr/pull/1330) in [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 23rd, 2026, 6:46:44 AM
+Last Updated: Tuesday, November 24th, 2026, 9:13:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [![](https://visitcount.itsvg.in/api?id=ocruze&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
